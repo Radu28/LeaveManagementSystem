@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|c:\\users\\drago\\source\\repos\\leavemanagementsystem\\leavemanagementsystem.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|solutionrelative:leavemanagementsystem.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|c:\\users\\drago\\source\\repos\\leavemanagementsystem\\leavemanagementsystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|solutionrelative:leavemanagementsystem.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|c:\\users\\drago\\source\\repos\\leavemanagementsystem\\leavemanagementsystem.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|solutionrelative:leavemanagementsystem.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|c:\\users\\drago\\source\\repos\\leavemanagementsystem\\leavemanagementsystem.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|solutionrelative:leavemanagementsystem.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|c:\\users\\drago\\source\\repos\\leavemanagementsystem\\leavemanagementsystem.web\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|solutionrelative:leavemanagementsystem.web\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|c:\\users\\drago\\source\\repos\\leavemanagementsystem\\leavemanagementsystem.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|solutionrelative:leavemanagementsystem.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|c:\\users\\drago\\source\\repos\\leavemanagementsystem\\leavemanagementsystem.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|solutionrelative:leavemanagementsystem.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|c:\\users\\drago\\source\\repos\\leavemanagementsystem\\leavemanagementsystem.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|solutionrelative:leavemanagementsystem.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|c:\\users\\drago\\source\\repos\\leavemanagementsystem\\leavemanagementsystem.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|solutionrelative:leavemanagementsystem.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|c:\\users\\drago\\source\\repos\\leavemanagementsystem\\leavemanagementsystem.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|solutionrelative:leavemanagementsystem.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|c:\\users\\drago\\source\\repos\\leavemanagementsystem\\leavemanagementsystem.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|solutionrelative:leavemanagementsystem.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|c:\\users\\drago\\source\\repos\\leavemanagementsystem\\leavemanagementsystem.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|solutionrelative:leavemanagementsystem.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|c:\\users\\drago\\source\\repos\\leavemanagementsystem\\leavemanagementsystem.web\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|solutionrelative:leavemanagementsystem.web\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|c:\\users\\drago\\source\\repos\\leavemanagementsystem\\leavemanagementsystem.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|solutionrelative:leavemanagementsystem.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|c:\\users\\drago\\source\\repos\\leavemanagementsystem\\leavemanagementsystem.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B6D0B42-D3F4-46D2-8124-2C26E193EA34}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|solutionrelative:leavemanagementsystem.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "LeaveManagementSystem.Web\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "LeaveManagementSystem.Web\\Properties\\serviceDependencies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-21T08:37:23.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LeaveManagementSystem.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LeaveManagementSystem.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T09:39:34.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LeaveManagementSystem.Web\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\appsettings.Development.json",
+              "RelativeToolTip": "LeaveManagementSystem.Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T09:31:58.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "LeaveManagementSystem.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\appsettings.json",
+              "RelativeToolTip": "LeaveManagementSystem.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T09:31:55.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "LeaveManagementSystem.Web\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "LeaveManagementSystem.Web\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:46:23.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "LeaveManagementSystem.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "LeaveManagementSystem.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T12:43:59.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LeaveManagementSystem.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LeaveManagementSystem.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T12:43:58.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LeaveManagementSystem.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LeaveManagementSystem.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T12:43:57.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "LeaveManagementSystem.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "LeaveManagementSystem.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T11:51:37.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LeaveManagementSystem.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "LeaveManagementSystem.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T22:17:56.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Program.cs",
+              "RelativeDocumentMoniker": "LeaveManagementSystem.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Program.cs",
+              "RelativeToolTip": "LeaveManagementSystem.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:16:59.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LeaveManagementSystem.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LeaveManagementSystem.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:35:12.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LeaveManagementSystem.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LeaveManagementSystem.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T22:32:05.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "LeaveManagementSystem.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "LeaveManagementSystem.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T22:27:03.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LeaveManagementSystem.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\drago\\source\\repos\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LeaveManagementSystem.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T22:27:01.766Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
